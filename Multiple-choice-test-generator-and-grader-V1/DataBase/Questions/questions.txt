@@ -1,0 +1,5 @@
+1;What is the longest that an elephant has lived?(that we khow of);17years,49years,86years,142years,20years;86years
+2;Which of these animals does NOT appear in the Chinese zodiac?;bear,rabbit,dragon,dog,rooster;bear
+3;What is the largest island in the world?;greenland,cuba,great britain,new guinea,corsica;greenland
+4;Name the country from where Parmesan cheese comes;turkey,france,italy,greece,india;italy
+5;The Suezn canal is located in;libya,egypt,jordan,lebanon,tunisia;egypt

@@ -1,0 +1,2 @@
+20;Kurt Cobain was the leader of;Armstrong,Dallas,First,Muhammed Ali,Nirvana;Nirvana
+21;The first man who walked on the moon was;Armstrong,Dallas,First,Muhammed Ali,Nirvana;Armstrong
