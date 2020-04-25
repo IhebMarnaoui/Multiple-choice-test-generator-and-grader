@@ -102,7 +102,6 @@ bool Question::addQuestion(){
     }
     f.close();
     return true;
-
 }
 
 long int Question::getQuestionId(){

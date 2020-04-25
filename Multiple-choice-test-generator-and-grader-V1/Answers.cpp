@@ -3,6 +3,7 @@
 #include<string>
 #include<iostream>
 #include<cstring>
+#include<cstdlib>
 
 using namespace std;
 
@@ -22,26 +23,20 @@ class Answers
 //the constructor allows to create a derived Answer object from a formatted file containing the answers of a student
 Answers::Answers(string file){
     ifstream t (file);
-    string k,v;
-    while(!t.eof()){
-        string s;
-        getline(t,s);
-        /*int l=s.length();
-        char tab[l];
-        for (int i=0;i<l;i++){
-            tab[i]=s[i];
-        }*/
+    string k,v,s;
+    while(getline(t,s)){
         char * pch=const_cast<char*>(s.c_str());
         pch = strtok (pch,":");
         string a;
         a=pch;
-        pch = strtok (NULL, ":");
+        pch = strtok (NULL,":");
         string b;
         b=pch;
         long int i = stoi(a);
         answerdetails[i]=b;
     }
-    cout<<"say hello to the world\n";
+    t.close();
+    cout<<"hi\n";
 }
 Answers::Answers(long int AnswersID){
     ofstream t;
