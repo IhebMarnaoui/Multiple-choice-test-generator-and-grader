@@ -1,0 +1,5 @@
+Kurt Cobain was the leader of;A-Armstrong,B-Dallas,C-First,D-Muhammed Ali,Nirvana;E
+Kurt Cobain was the leader of;A-Armstrong,B-Dallas,C-First,A-Muhammed Ali,E-Nirvana;E
+Kurt Cobain was the leader of;A-Armstrong,B-Dallas,CFirst,D-Muhammed Ali,E-Nirvana;E
+Kurt Cobain was the leader of;A-Armstrong,B-Dallas,-First,D-Muhammed Ali,E-Nirvana;E
+Kurt Cobain wasof;A-Armstrong,B-Dallas,C-First,D-Muhammed Ali,E-Nirvana;E

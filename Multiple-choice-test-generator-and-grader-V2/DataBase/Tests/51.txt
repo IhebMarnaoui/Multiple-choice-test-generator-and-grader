@@ -1,0 +1,18 @@
+3: What is the largest island in the world?
+	A-greenland
+	B-cuba
+	C-great britain
+	D-new guinea
+	E-corsica
+4: Name the country from where Parmesan cheese comes
+	A-turkey
+	B-france
+	C-italy
+	D-greece
+	E-india
+5: The Suezn canal is located in
+	A-libya
+	B-egypt
+	C-jordan
+	D-lebanon
+	E-tunisia

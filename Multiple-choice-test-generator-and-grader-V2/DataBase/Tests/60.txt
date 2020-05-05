@@ -1,0 +1,12 @@
+1: What is the longest that an elephant has lived?(that we khow of)
+	A-17years
+	B-49years
+	C-86years
+	D-142years
+	E-20years
+4: Name the country from where Parmesan cheese comes
+	A-turkey
+	B-france
+	C-italy
+	D-greece
+	E-india
