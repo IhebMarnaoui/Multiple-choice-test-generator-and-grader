@@ -1,0 +1,7 @@
+1;What is the longest that an elephant has lived?(that we khow of);A-17years,B-49years,C-86years,D-142years,E-20years;C
+2;Which of these animals does NOT appear in the Chinese zodiac?;A-Bear,B-Rabbit,C-Dragon,D-Dog,E-Rooster;A
+3;What is the largest island in the world?;A-Greenland,B-Cuba,C-Great Britain,D-New Guinea,E-Corsica;A
+4;Name the country from where Parmesan cheese comes;A-Turkey,B-France,C-Italy,D-Greece,E-India;C
+5;The Suezn canal is located in;A-Libya,B-Egypt,C-Jordan,D-Lebanon,E-Tunisia;B
+6;Kurt Cobain was the leader of;A-Armstrong,B-Dallas,C-First,D-Muhammed Ali,E-Nirvana;E
+7;The first man who walked on the moon was;A-Armstrong,B-Dallas,C-First,D-Muhammed Ali,E-Nirvana;A

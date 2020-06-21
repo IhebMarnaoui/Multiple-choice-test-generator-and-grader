@@ -1,0 +1,2 @@
+Which of the following phone brands are most selled ?;A-iPhone,B-Samsung,C-LG,D-Sony,E-Huawei;A
+If x+2=5, what is the value of x?;A-7,B-0.4,C-3,D-2.5,E-10;C
